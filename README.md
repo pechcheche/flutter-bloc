@@ -1,7 +1,7 @@
 # A small practice about Bloc - Flutter
 <hr>
 
-![Image of Counter with BloC](.png)
+![Image of Counter with BloC](Screenshot.png)
 
 >ChechePech
 # bloc_flutter   
